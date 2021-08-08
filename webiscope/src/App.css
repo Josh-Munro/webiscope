@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 30px;
+  color: white;
+  padding-left: 20px;
+}
+
+ul {
+  float: right;
+  display: block;
+}
+
+li {
+  float: right;
+  padding: 20px;
+  list-style-type: none;
+}
